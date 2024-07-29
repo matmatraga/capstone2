@@ -18,6 +18,7 @@ const app = express();
 //To be updated
 const corsOptions = {
 	origin: ['https://capstone3-gray-delta.vercel.app'],
+	credentials: true,
 	optionsSuccessStatus: 200
 }
 
