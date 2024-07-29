@@ -17,7 +17,7 @@ const app = express();
 
 //To be updated
 const corsOptions = {
-	origin: ['http://localhost:3000', 'https://agitated-goldwasser-4eebd5.netlify.app'],
+	origin: ['capstone3-swart-phi.vercel.app', 'https://agitated-goldwasser-4eebd5.netlify.app'],
 	optionsSuccessStatus: 200
 }
 
