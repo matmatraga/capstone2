@@ -17,7 +17,7 @@ const app = express();
 
 //To be updated
 const corsOptions = {
-	origin: ['https://capstone3-gray-delta.vercel.app/', 'https://agitated-goldwasser-4eebd5.netlify.app'],
+	origin: ['https://capstone3-gray-delta.vercel.app'],
 	optionsSuccessStatus: 200
 }
 
