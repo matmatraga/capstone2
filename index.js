@@ -17,7 +17,7 @@ const app = express();
 
 //To be updated
 const corsOptions = {
-	origin: ['https://capstone3-gray-delta.vercel.app'],
+	origin: ['https://capstone3-gray-delta.vercel.app', 'https://capstone3-dokd49rnk-matthewmondoyragas-projects.vercel.app', 'https://capstone3-git-master-matthewmondoyragas-projects.vercel.app'],
 	credentials: true,
 	optionsSuccessStatus: 200
 }
